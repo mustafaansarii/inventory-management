@@ -13,7 +13,8 @@ env/
 instance/
 *.sqlite3
 
-
+**/node_modules/
+**/dist/
 node_modules/
 frontend/dist/
 npm-debug.log*
